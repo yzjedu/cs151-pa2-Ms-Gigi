@@ -1,7 +1,7 @@
 # Initial Design Document
 
 ## Algorithm for the Game of Sticks
-
+notes: use 1 and tab for indenting and lists, game loop instructions can be one line(first 4 points)
 1. Initialize Variables:
 - Set total_sticks to 0 
 - Set player1_losses to 0 
