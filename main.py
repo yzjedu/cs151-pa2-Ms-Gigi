@@ -6,12 +6,13 @@
 #                             The objective is to avoid being the player who takes the last stick.
 
 # Introduction to the Game
+print('*' * 75)
 print("Welcome to the Stick Game!")
-print("The goal is to avoid being the player who takes the last stick.")
-print("Players can take 1, 2, or 3 sticks on their turn.")
-print("The game starts with a number of sticks between 10 and 100.")
+print("\tThe goal is to avoid being the player who takes the last stick.")
+print("\tPlayers can take 1, 2, or 3 sticks on their turn.")
+print("\tThe game starts with a number of sticks between 10 and 100.")
 print("Let's begin!")
-
+print('*' * 75)
 # Allows the program to generate random numbers
 import random
 
